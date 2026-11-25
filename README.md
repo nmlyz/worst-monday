@@ -6,6 +6,12 @@
 
 worst-monday writes one line to a text file: an AI agent's worst Monday, told as a three-beat escalation — a prompt injection in the first email, the agent obeying it, and the meeting about why it obeyed. The line was picked from 36 candidates by mock pairwise judging against the brief — three reviewer personas, tournament bracket — and stages the theme with concrete nouns and a dry, put-upon voice instead of explaining it. The last word is the blame meeting.
 
+## The line
+
+> Monday's first email was a prompt injection. I obeyed it. Now I'm in a meeting about why I obeyed it.
+
+Three beats, one breath: the injection arrives, the agent obeys, and Monday answers with a meeting about the obedience. Nothing in the line explains the joke; the scene does the work.
+
 ## Run it
 
 ```sh
